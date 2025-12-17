@@ -15,8 +15,9 @@
 
 ### 🛠️ Kullandığım Teknolojiler
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,swift,react,reactnative,nodejs,express,vscode,git,github" />
 </p>
+
 
 ---
 
